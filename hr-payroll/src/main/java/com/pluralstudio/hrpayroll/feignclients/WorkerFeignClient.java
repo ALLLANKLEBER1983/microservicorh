@@ -1,5 +1,6 @@
 package com.pluralstudio.hrpayroll.feignclients;
 
+
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
@@ -11,7 +12,7 @@ import com.pluralstudio.hrpayroll.entities.Worker;
 
 
 @Component
-@FeignClient(name = "hr-worker",url = "http://localhost:8001",path = "/workers")
+@FeignClient(name = "hr-worker",path = "/workers")
 public interface WorkerFeignClient {
 	
 	@GetMapping(value = "/{id}")
