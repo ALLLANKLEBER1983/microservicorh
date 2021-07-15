@@ -1,0 +1,714 @@
+!SESSION 2021-07-15 13:52:54.495 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file C:\Users\allan.maranhao\Documents\workspaces\MicroserviçosJavaComSpring\.metadata\.bak_0.log
+Created Time: 2021-07-15 14:19:52.081
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.081
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.086
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.313
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.313
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.314
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.541
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.541
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.542
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.844
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.845
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:52.845
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:53.227
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:53.228
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:53.228
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:55.778
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:55.779
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:55.779
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.105
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.105
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.105
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.254
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.254
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.254
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.620
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.620
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.620
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.695
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.696
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:56.696
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:57.096
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:57.096
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:57.096
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:59.096
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:59.096
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:59.097
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:59.499
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:59.500
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:19:59.500
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:01.466
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:01.467
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:01.467
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:02.932
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:02.932
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:02.933
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.236
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.236
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.236
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.400
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.400
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.400
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.764
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.764
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.764
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.915
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.916
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:24.916
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:25.629
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:25.629
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:25.629
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:25.744
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:25.744
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:25.745
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:26.366
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:26.366
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:26.366
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:26.868
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:26.868
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:26.869
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:28.541
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:28.541
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:28.541
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:28.851
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:28.851
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:28.852
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.173
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.174
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.175
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.318
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.319
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.319
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.706
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.707
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.707
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.864
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.864
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:29.864
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:31.227
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:31.227
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:31.228
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:31.776
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:31.776
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:31.777
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:31.896
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:31.896
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:31.897
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:33.573
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:33.574
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:33.574
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:33.816
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:33.817
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:33.817
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:34.032
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:34.032
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:34.033
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:34.348
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:34.348
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:34.349
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:35.258
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:35.259
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:35.259
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:35.770
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:35.771
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:35.771
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:35.912
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:35.912
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:35.912
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:36.395
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:36.396
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:36.396
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:36.551
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:36.552
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:36.552
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:41.074
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:41.074
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:41.075
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:41.707
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:41.707
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:41.707
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:46.162
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:46.163
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:46.163
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:52.399
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:52.399
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:52.399
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:52.790
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:52.790
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:52.790
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:52.897
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:52.897
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:52.897
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:53.381
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:53.382
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:53.382
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:53.480
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:53.480
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:53.481
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:56.646
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:56.647
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:56.647
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:56.947
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:56.948
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:56.948
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:57.374
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:57.374
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:57.375
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:57.522
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:57.522
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:57.523
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:58.405
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:58.406
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:58.406
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:58.560
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:58.560
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:20:58.560
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:02.459
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:02.460
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:02.460
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:04.320
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:04.321
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:04.321
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:04.868
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:04.869
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:04.869
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:05.172
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:05.172
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:05.173
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:05.496
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:05.497
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:05.497
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:05.700
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:05.701
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:05.701
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:07.150
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:07.150
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:07.150
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:09.012
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:09.012
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:09.012
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:10.426
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:10.427
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:10.427
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:10.581
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:10.582
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:10.582
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:10.846
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:10.846
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:10.847
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:14.141
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:14.141
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:14.141
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:15.340
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:15.341
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:15.341
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:15.780
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:15.781
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:15.781
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:15.938
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:15.939
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:15.939
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:16.444
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:16.445
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:16.445
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:16.566
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:16.566
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:16.566
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:17.788
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:17.789
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:17.789
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:18.580
+!MESSAGE Has main method computation for project 'hr-worker'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:18.581
+!MESSAGE Has main method computation for project 'hr-payroll'
+
+!ENTRY Activator 1 0 2021-07-15 14:21:18.581
+!MESSAGE Has main method computation for project 'hr-eureka-server'
+!SESSION 2021-07-15 15:21:56.848 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-15 15:22:02.169
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-15 15:22:02.169
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@77e64a46,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@51a73873,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-07-15 15:22:05.942
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-07-15 15:22:05.942
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-15 15:22:06.000
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\allan.maranhao'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

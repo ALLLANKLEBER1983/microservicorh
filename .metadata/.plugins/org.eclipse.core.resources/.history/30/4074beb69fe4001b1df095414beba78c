@@ -1,0 +1,5 @@
+package com.pluralstudio.hrpayroll.entities;
+
+public class Payment {
+
+}

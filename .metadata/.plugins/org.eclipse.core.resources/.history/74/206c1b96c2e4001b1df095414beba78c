@@ -1,0 +1,5 @@
+package com.pluralstudio.hrpayroll.config;
+
+public class AppConfig {
+
+}
