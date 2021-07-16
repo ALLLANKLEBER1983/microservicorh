@@ -9355,3 +9355,5 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2021-07-16 09:51:16,017 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-16 09:51:16,018 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-07-16 09:51:16,019 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-16 09:51:16,020 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-16 09:51:16,020 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\allan.maranhao\Documents\workspaces\MicroserviçosJavaComSpring\hr-payroll\src\test\resources
