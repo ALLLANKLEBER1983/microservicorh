@@ -1,5 +1,0 @@
-package com.pluralstudio.hrpayroll.feignclients;
-
-public interface WorkerFeignClient {
-
-}
