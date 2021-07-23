@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;Worker.java&apos; to &apos;hr-payroll/src/main/java/com.pluralstudio.hrpayroll.entities&apos;&#x0D;&#x0A;- Original project: &apos;hr-worker&apos;&#x0D;&#x0A;- Destination element: &apos;hr-payroll/src/main/java/com.pluralstudio.hrpayroll.entities&apos;&#x0D;&#x0A;- Original element: &apos;com.pluralstudio.hrworker.entities.Worker.java&apos;" description="Copy compilation unit" destination="=hr-payroll/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.pluralstudio.hrpayroll.entities" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.pluralstudio.hrworker.entities{Worker.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1626281523254" units="1" version="1.0"/>
-</session>
